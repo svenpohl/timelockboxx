@@ -35,9 +35,9 @@ CONTRACT timelockboxx : public eosio::contract {
       using contract::contract;
       
       // ---
-      // Constants
+      // Constants and structures
       //
-      const uint32_t     hashwert    = 12345;      
+        
  
       
       struct param_struct
